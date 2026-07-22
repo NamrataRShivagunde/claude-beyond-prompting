@@ -14,9 +14,6 @@ We take a small, real task and go from prompting to *delegating*:
 4. **Start a Claude Code session** and prompt it to do the job
 5. **Toggle manual vs. auto mode** — and learn to steer the work while it runs
 
-🎥 **Video 1** — *(link coming soon)*
-📁 Files for this lesson: `lesson-01/`
-
 ## What's next
 
 More lessons are coming — this README will grow with the repo. ⭐ Star to follow along.
