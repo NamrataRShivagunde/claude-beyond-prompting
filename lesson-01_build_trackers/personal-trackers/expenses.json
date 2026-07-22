@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ede4e29e",
+    "date": "2026-07-22",
+    "category": "food",
+    "amount": 10.0,
+    "description": "ice cream"
+  },
+  {
+    "id": "4cfd5302",
+    "date": "2026-07-22",
+    "category": "transport",
+    "amount": 10.0,
+    "description": "bus"
+  }
+]

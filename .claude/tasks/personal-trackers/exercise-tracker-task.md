@@ -18,6 +18,3 @@ Log workouts and view exercise history.
 
 ## Color theme of the html page 
 Teal and cream
-
-## Path
-Save all artifacts related to this task at lesson-01_build_trackers/personal-trackers
